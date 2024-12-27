@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a self-taught developer passionate about building awes
 
 ## Connect with Me
 
-- 📧 Email: [linus.et@yourmail.com](mailto:linus.etyanglinus453@gmail.com)
+- 📧 Email: [etyanglinus453@gmail.com](mailto:linus.etyanglinus453@gmail.com)
 - 🔗 LinkedIn: [Linus Etyang](https://www.linkedin.com/in/linus-etyang/)
 - 🐦 X: [@LinusEtyang](https://X.com/LinusEtyang)
 - 🌐 Website: [Your Portfolio](https://yourwebsite.com)
