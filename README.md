@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a self-taught developer passionate about building awes
 ## About Me
 
 - 💻 I specialize in **Python**, **PHP**, **Flutter**, **MySQL**, and **Next.js**.
-- 🔄 I'm always improving my skills and staying up-to-date with the latest technologies.
+- 🔄 I'm always improving my skills and staying up-to-datgithubusercontente with the latest technologies.
 - 🚀 I love building both front-end and back-end solutions, making sure everything works seamlessly.
 - 📚 Self-taught with lots of projects under my belt.
 - 🌍 Currently working on various personal and freelance projects.
@@ -29,8 +29,5 @@ Welcome to my GitHub! I'm a self-taught developer passionate about building awes
 Why do programmers prefer dark mode?  
 Because light attracts bugs! 🐞
 
-## My GitHub Stats 📊
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linusetyang&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 Thanks for visiting my GitHub! Feel free to explore my repositories and check out my work. Let me know if you'd like to collaborate or just chat about development. 😊
